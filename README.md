@@ -178,12 +178,6 @@ Bounding Box
 Detected Aircraft
 ```
 
-The final result shows the detected aircraft surrounded by a bounding box.
-
-<p align="center">
-  <img src="./2.png" width="700">
-</p>
-
 ---
 
 ## 📚 What I Learned
